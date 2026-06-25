@@ -515,7 +515,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Made with ❤️ by Somiya Khan**
+**Made with ❤️ by Asma Khan**
 
 ⭐ If this project helped your research, please consider giving it a star on GitHub! ⭐
 
