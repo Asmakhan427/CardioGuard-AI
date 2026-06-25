@@ -19,26 +19,6 @@
 
 > ⚠️ **Medical Disclaimer:** CardioSense is developed strictly for research and educational purposes. It is NOT a certified medical device and must not be used as the sole basis for any clinical decision. All predictions should be reviewed and validated by a qualified healthcare professional.
 
----
-
-## 📌 Table of Contents
-
-- [Overview](#-overview)
-- [Screenshots](#-screenshots)
-- [System Architecture](#-system-architecture)
-- [Dataset](#-dataset)
-- [Models & Performance](#-models--performance)
-- [Feature Engineering](#-feature-engineering)
-- [Project Structure](#-project-structure)
-- [Installation & Setup](#-installation--setup)
-- [API Reference](#-api-reference)
-- [Technology Stack](#-technology-stack)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [Citation](#-citation)
-- [License](#-license)
-
----
 
 ## 🔬 Overview
 
