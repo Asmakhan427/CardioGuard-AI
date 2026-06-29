@@ -468,10 +468,10 @@ If you use this codebase in your research, please cite as:
 
 ```bibtex
 @software{khan2026cardiosense,
-  author    = {Khan, Somiya},
+  author    = {Khan, Asma},
   title     = {CardioSense: An AI-Powered Cardiovascular Risk Prediction System},
   year      = {2026},
-  url       = {https://github.com/somiyakhan01/CardioSense},
+  url       = {https://github.com/asmakhan427/CardioSense},
   note      = {Software available at GitHub}
 }
 ```
